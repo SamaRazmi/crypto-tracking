@@ -1,3 +1,5 @@
+You can access this site on Render at the following address: https://crypto-tracking.onrender.com
+
 # Crypto Tracker
 
 Crypto Tracker is a web application built with React.js that allows users to track the prices and performance of various cryptocurrencies in real-time.
